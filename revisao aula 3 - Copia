@@ -1,0 +1,8 @@
+# for i in range(1, 501):
+#     print(i)
+
+início = int(input("Digite de onde você quer que comece a contar:"))
+fim = int(input("digite até onde vocêr quer que conte:"))
+
+for i in range(início, fim +1):
+    print(i)
